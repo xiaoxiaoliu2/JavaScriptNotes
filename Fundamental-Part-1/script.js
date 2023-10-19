@@ -267,7 +267,7 @@ console.log('11.3 ' + drink2);
 console.log('11.4 ' + `I like to drink ${age >= 18 ? 'wine' : 'water'}`);
 
 // JS releases
-// basics of functions, objects, arrays, and loops
+
 
 
 
