@@ -115,7 +115,7 @@ const checkWinner = function (avgDolphins, avgKoalas) {
 checkWinner(scoreDolphins, scoreKoalas);
 
 
-
+// token: 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
 
 // const calcAverage = (score1, score2, score3) => {
 //   return (score1 + score2 + score3) / 3;
